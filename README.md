@@ -1,9 +1,3 @@
----
-title: "Sora2使用教程与邀请码获取攻略【2025最全指南】"
-description: "详细介绍Sora2是什么、如何获取Sora2邀请码（购买、免费、Discord三种方式），包含Sora2使用教程、邀请码购买渠道与免费邀请码获取技巧，让你轻松注册使用Sora2。"
-keywords: "Sora2使用教程, 如何获取Sora2邀请码, Sora2邀请码购买, Sora2注册, Sora2教程, Sora2邀请码获取, Sora2官网, Sora2邀请码免费"
----
-
 # Sora2使用教程：如何获取Sora2邀请码及最新注册方式
 
 
