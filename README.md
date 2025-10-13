@@ -1,10 +1,13 @@
-# Sora2使用教程：如何获取Sora2邀请码及最新注册方式
+<img width="1917" height="852" alt="image" src="https://github.com/user-attachments/assets/5b09e880-2f20-4ebb-8a8e-e040fdebe69a" /># Sora2使用教程：如何获取Sora2邀请码及最新注册方式
 
 
 
-📅 **文章更新时间：2025年10月10日**
+📅 **文章更新时间：2025年10月14日**
 
-👉 **查看更清晰的网页版教程**  ：[https://rangling.github.io/sora2-tutorial-invite-code/](https://rangling.github.io/sora2-tutorial-invite-code/)
+<div class="hide-in-pages">
+👉 查看更清晰的网页版教程：[https://rangling.github.io/sora2-tutorial-invite-code/](https://rangling.github.io/sora2-tutorial-invite-code/)
+</div>
+
 ---
 Sora2-tutorial-invite-code | Sora2 invite code guide and tutorial – how to get Sora2 invite, free and paid methods.
 ---
@@ -47,7 +50,7 @@ Sora2 之所以火爆，是因为它集合了当下 AI 技术最热门的几大�
 
 
 
-如果你迫不及待想体验 Sora2，那么**直接购买邀请码**是不少人选择的捷径。当前网上已经出现一些平台在出售 Sora2 邀请码，价格从几块钱到上百元不等。据博主了解，[**风云 AI**](https://www.404141.xyz/) 等账号商城网站（https://www.404141.xyz/）提供 Sora2 邀请码的购买服务，最低价格仅约 ¥9.9 人民币。一般来说，你在这类平台付款后，商家会很快通过站内消息或邮件将邀请码发送给你。拿到邀请码后，就可以立刻用于注册，抢先一步进入 Sora2 的世界。
+如果你迫不及待想体验 Sora2，那么**直接购买邀请码**是不少人选择的捷径。当前网上已经出现一些平台在出售 Sora2 邀请码，价格从几块钱到上百元不等。据博主了解，[**风云 AI**](https://www.404141.xyz/) 等账号商城网站提供 Sora2 邀请码的购买服务，最低价格仅约 ¥9.9 人民币。一般来说，你在这类平台付款后，商家会很快通过站内消息或邮件将邀请码发送给你。拿到邀请码后，就可以立刻用于注册，抢先一步进入 Sora2 的世界。
 
 不过，在此要提醒一句：务必选择可信的平台购买邀请码。不要尝试私下买卖 Sora2 邀请码，否则很可能上当受骗。所以，如果你决定花钱买邀请码，最好选择有口碑的第三方平台或熟人介绍的渠道，避免在论坛上向不明身份的人付款。谨慎行事，才能保证花钱买到真正有效的邀请码。
 
@@ -74,12 +77,57 @@ Sora2 之所以火爆，是因为它集合了当下 AI 技术最热门的几大�
 拿到邀请码之后，下面我们来看**Sora2的使用教程**，一步步完成**官网注册指南**并体验它的强大功能。
 
 1. **下载并安装 Sora2 应用：** Sora2 目前有 [iOS 客户端](https://apps.apple.com/us/app/sora-by-openai/id6744034028)（应用名称为 *Sora by OpenAI*）和网页版入口。对于国内用户，由于国区 App Store 尚未上架 Sora，你需要使用美区（或其他支持地区）的 Apple ID 在 App Store 下载 Sora 应用。如果不方便下载 App，也可以直接在浏览器访问 Sora 官方网站 ([sora.com](https://sora.chatgpt.com/)) 使用网页版。**注意：** Sora 正式支持的地区目前是美国和加拿大等少数国家，其他地区的用户访问时可能需要配合 VPN 等工具模拟所在地。
-2. **登录 OpenAI 账号：** 打开 Sora 应用或网页版后，会提示你使用 OpenAI 账号登录。Sora 直接使用你的 ChatGPT/OpenAI现有账户，无需另行注册账号。如果你还没有OpenAI账号，可以先前往 ChatGPT 官网注册一个（需要用邮箱或手机号等验证）。登录过程中应用可能会让你输入生日信息，以便设置年龄适配的内容过滤，这是正常的流程。
-3. **输入邀请码激活权限：** 成功登录账号后，Sora 会进入邀请码验证步骤。在弹出的邀请码输入界面中，填入你获得的6位邀请码字符，然后提交。此时系统会验证邀请码的有效性：如果邀请码正确且可用次数剩余，你的账号就会被激活获得 Sora2 的使用权限（若提示无效，可能是码被用完或输入有误，需要换另一个码尝试）。邀请码验证通过后，你就正式解锁了 Sora2 的大门！
-4. **设置用户名和头像（可选）：** 初次进入 Sora 应用，你可以为自己挑选一个用户名，并添加头像（可选步骤）。这就像注册社交应用一样，完善个人资料有助于其他用户识别你。不过就算跳过这步也不影响使用。
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed390f0f-8b74-4b0a-a298-c30416c0ad9a"
+       alt="sora2主页示例图"
+       width="70%">
+</p>
+
+2. **登录 OpenAI 账号：** 打开 Sora 应用或网页版后，会提示你使用 OpenAI 账号登录。Sora 直接使用你的 ChatGPT/OpenAI现有账户，无需另行注册账号。如果你还没有OpenAI账号，可以直接注册一个（需要用邮箱或手机号等验证）。登录过程中应用可能会让你输入生日信息，以便设置年龄适配的内容过滤，这是正常的流程。如果想节约时间-[点击此处前往sora2成品账号界面](https://www.404141.xyz)。
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a439e53a-f50f-42b0-8164-91cd9872e2df"
+       alt="sora2注册示例图"
+       width="70%">
+</p>
+
+
+3.**设置用户名和头像（可选）：** 初次进入 Sora 应用，你可以为自己挑选一个用户名，并添加头像（可选步骤）。这就像注册社交应用一样，完善个人资料有助于其他用户识别你。
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d86d756e-5e45-431d-8ab2-63fd475a9036"
+       alt="sora2用户名填写示例图"
+       width="70%">
+</p>
+
+4.  **输入邀请码激活权限：** 写完用户名后，Sora 会进入邀请码验证步骤。点击Enter invite code，然后在弹出的邀请码输入界面中，填入你获得的6位[邀请码字符](#方法1购买-sora2-邀请码付费捷径)，然后提交。此时系统会验证邀请码的有效性：如果邀请码正确且可用次数剩余，你的账号就会被激活获得 Sora2 的使用权限（若提示无效，可能是地区不对(美国等国家)或邀请码失效，或者需要换另一个码尝试）。邀请码验证通过后，你就正式解锁了 Sora2 的大门！
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ad2c6c0-53e0-47fd-b179-9d6d41ce560b"
+       alt="sora2邀请码填写示例图"
+       width="70%">
+</p>
+
 5. **浏览内容和关注他人：** 进入 Sora 主界面后，你会看到一个竖版视频流，可以上下滑动浏览社区里其他用户公开发布的 AI 视频作品。遇到喜欢的作品，可以点赞、评论或关注创作者，就像刷抖音或者Instagram一样。Sora 的推荐算法会逐渐根据你的喜好推荐新的内容，你也可以切换到关注页查看已关注用户的视频动态。
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51ee24ff-aa64-46fb-8e3f-4049904b734a"
+       alt="sora2主界面"
+       width="70%">
+</p>
+
+
 6. **创建 AI 短视频：** Sora2 最核心的玩法当然是自己动手生成视频！点击界面中的 “+” 按钮（发布按钮），进入创作界面。你可以选择**从零开始**（纯文本生成），或者**从一张图片开始**（根据图片进行动画生成）。如果从零开始，只需在输入框中用文字**描述你想要的视频场景**：例如“在森林里一只小猫追逐蝴蝶，黄昏柔和光线，背景有轻柔的钢琴音乐”。Sora2 模型对文字指令的理解力很强，建议你尽可能**具体、清晰地描述**画面和声音，模型就能更准确地生成你脑海中的画面。输入描述后，选择生成即可。Sora 会先生成一个预览供你查看效果，如果不满意可以调整提示词或风格参数再试。满意后，将视频保存为草稿或发布分享。
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab7a99ae-e1ea-41e8-a9fb-cb77f2e320de"
+       alt="sora2使用方法"
+       width="70%">
+</p>
+
+
 7. **高级玩法（Remix 和 Cameo）：** 如果你看到别人发布的视频很有趣，Sora 提供了 **Remix** 功能让你在TA的视频基础上修改创造，生成自己的版本（系统会注明作品是Remix自他人，以尊重原始创意）。此外，Sora2 新增的 **Cameo** 功能允许你**上传自己的照片**并通过一次性的视频+音频验证，生成一个“数字替身”。经过本人授权后，其他人也可以在他们的视频里使用你的虚拟形象客串（当然你可以随时撤销权限）。这一功能让社交玩法更加丰富，不过目前出于安全考虑，**暂不支持真人形象的图片生成视频**（即不能随意让名人出现在视频里）。Cameo 更多细节可[参考官方说明](https://cookbook.openai.com/examples/sora/sora2_prompting_guide)，这里不展开。
+
 8. **保存和分享：** 视频生成完成后，你可以选择发布到社区与大家见面，也可以只保存为**私密**以供自己欣赏。在发布时可以设置视频的公开范围（公开、仅关注者可见、私信分享等）。所有视频都会自动加上动态水印，并嵌入防篡改的元数据标签，以标明AI生成身份，这点和以前的AI图片生成服务类似，是为了防止不当用途。
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f193695c-c53c-4f05-a0f9-77c835d39dbc"
