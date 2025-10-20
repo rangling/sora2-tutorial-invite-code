@@ -1,16 +1,31 @@
-<img width="1917" height="852" alt="image" src="https://github.com/user-attachments/assets/5b09e880-2f20-4ebb-8a8e-e040fdebe69a" /># Sora2使用教程：如何获取Sora2邀请码及最新注册方式
+
+# Sora2使用教程：怎么获取Sora2邀请码及最新注册方式
+> Sora2 invite-code guide — get invites (free & paid)
 
 
-
-📅 **文章更新时间：2025年10月14日**
+📅 **文章更新时间：2025年10月21日**
 
 <div class="hide-in-pages">
-👉 查看更清晰的网页版教程：[https://rangling.github.io/sora2-tutorial-invite-code/](https://rangling.github.io/sora2-tutorial-invite-code/)
+  👉 查看更清晰的网页版教程： <a href="https://rangling.github.io/sora2-tutorial-invite-code/" target="_blank" rel="noopener noreferrer">网页版教程（更清晰）</a>
 </div>
 
 ---
-Sora2-tutorial-invite-code | Sora2 invite code guide and tutorial – how to get Sora2 invite, free and paid methods.
----
+ <details>
+<summary>📚 目录（点击展开）</summary>
+   
+  - [Sora2 是什么？有何用途？](#sora2-是什么有何用途)
+  - [如何获取 Sora2 邀请码（最新注册方式）](#如何获取-sora2-邀请码最新注册方式)
+    - [方法1：购买 Sora2 邀请码（付费捷径）](#方法1购买-sora2-邀请码付费捷径)
+    - [方法2：社交媒体/论坛 免费获取邀请码](#方法2社交媒体论坛-免费获取邀请码)
+    - [方法3：加入 Discord 群组领取邀请码](#方法3加入-discord-群组领取邀请码)
+  - [Sora2 怎么使用？官方注册指南](#sora2-怎么使用官方注册指南)
+  - [邀请码获取小贴士与注意事项](#邀请码获取小贴士与注意事项)
+  - [Sora2 的潜在应用场景](#sora2-的潜在应用场景)
+  - [结语](#结语)
+  - [🔗 更多相关AI资源与使用方法可参考以下链接：](#-更多相关ai资源与使用方法可参考以下链接)
+   </details>
+
+
 2025年，AI圈子里出现了一个当红炸子鸡——**Sora2**。不少人在 X（原 Twitter）和技术论坛上讨论它，但许多人还不清楚 **Sora2 是什么**，只听说这个新玩意功能强大，而且**注册需要邀请码**。本文将以轻松的语气为你介绍 Sora2 的功能和用途，并详解 **如何获取 Sora2 邀请码** 的三种途径，以及提供一些邀请码获取建议、防骗提示和应用场景分享，帮助你快速上手这款神器。
 
 <p align="center">
@@ -26,7 +41,7 @@ Sora2-tutorial-invite-code | Sora2 invite code guide and tutorial – how to get
 
 Sora2 之所以火爆，是因为它集合了当下 AI 技术最热门的几大元素：通过**调用强大的AI模型**完成复杂生成任务，兼具图像与音频的**影像生成**能力；未来有望提供**API接口**供开发者将其集成到其他应用中；并且作为全球化的产品，预计支持**多语言**的内容创作，让各国语言的用户都能使用 AI 生成视频。无论是想生成一个科幻小短片，还是制作一段栩栩如生的动漫片段，Sora2 都展现出巨大的潜力。
 
-目前 Sora2 仍处于**邀请测试**阶段。官方采取了邀请码限量注册的策略，因为生成视频非常耗费算力，只能逐步开放名额。Sora2 iOS 客户端和网页版暂时只向部分获邀用户开放，新用户登录时需要输入邀请码才能激活使用资格。有趣的是，每个已获得访问权限的用户都会得到属于自己的邀请码，可以再**邀请4位新用户**注册。也就是说，Sora2 通过这种“1传4，4传16”的裂变方式来扩大全球用户群(但是最近新注册的账号没有邀请码了)。从某种角度看，邀请码不仅是进入Sora2世界的钥匙，也是社区用户之间分享资源、传递福利的纽带。
+目前 Sora2 仍处于**邀请测试**阶段。官方采取了邀请码限量注册的策略，因为生成视频非常耗费算力，只能逐步开放名额。Sora2 iOS 客户端和网页版暂时只向部分获邀用户开放，新用户登录时需要输入邀请码才能激活使用资格。有趣的是，每个已获得访问权限的用户都会得到属于自己的邀请码，可以再**邀请4位新用户**注册。也就是说，Sora2 通过这种“1传4，4传16”的裂变方式来扩大全球用户群(但是最近有些新注册的账号没有邀请码了)。从某种角度看，邀请码不仅是进入Sora2世界的钥匙，也是社区用户之间分享资源、传递福利的纽带。
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f110a6f9-0df0-4f19-ab67-b85ef5c8a57b"
        alt="Sora2 邀请码获取页面截图"
@@ -83,7 +98,7 @@ Sora2 之所以火爆，是因为它集合了当下 AI 技术最热门的几大�
        width="70%">
 </p>
 
-2. **登录 OpenAI 账号：** 打开 Sora 应用或网页版后，会提示你使用 OpenAI 账号登录。Sora 直接使用你的 ChatGPT/OpenAI现有账户，无需另行注册账号。如果你还没有OpenAI账号，可以直接注册一个（需要用邮箱或手机号等验证）。登录过程中应用可能会让你输入生日信息，以便设置年龄适配的内容过滤，这是正常的流程。如果想节约时间-[点击此处前往sora2成品账号界面](https://www.404141.xyz)。
+2. **登录 OpenAI 账号：** 打开 Sora 应用或网页版后，点击登录(Log in)后，会提示你使用 OpenAI 账号登录。Sora2 是直接使用你的 ChatGPT/OpenAI现有账户，无需另行注册账号。如果你还没有OpenAI账号，可以直接注册一个（需要用邮箱或手机号等验证）。登录过程中应用可能会让你输入生日信息，以便设置年龄适配的内容过滤，这是正常的流程。如果想节约时间-[点击此处前往sora2成品账号界面](https://www.404141.xyz)。
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a439e53a-f50f-42b0-8164-91cd9872e2df"
@@ -168,10 +183,10 @@ Sora2 所代表的是一种全新的内容创作范式，它拥有广泛的**应
 
 作为OpenAI推出的划时代产品，Sora2展示了AI创作的无限可能。从文字到视频的转变，让每个人都有机会成为导演和编剧。虽然目前需要邀请码才能体验，但相信随着时间推移，官方会逐步开放更多名额。如果你按照本文介绍的方法积极尝试，**获取 Sora2 邀请码**并不遥远。希望大家都能早日亲手体验这款令人惊叹的AI视频生成工具，把你的天马行空化作影像与世界分享！在拿到邀请码、享受创作乐趣的同时，也别忘了将新的邀请码**分享给他人**，让更多朋友一起来见证 AI 创作的魔力。祝你玩得开心，创作出属于自己的精彩作品！
 
-## 🔗 参考链接
-更多相关资源与使用方法可参考以下链接：
+## 🔗 更多相关AI资源与使用方法可参考以下链接：
+
 
 - [风云 AI 账号商城 – Sora2 邀请码购买平台（提供 Sora2 邀请码付费购买服务）](https://www.404141.xyz/)
-- [OpenAI 官方 Discord 社区 – Sora2 邀请获取频道入口（加入后可在 #sora-invite-codes 频道领取最新邀请码）](https://discord.com/invite/openai)
-- [Sora2 使用教程与邀请码获取指南（sora2邀请码购买 / sora2邀请码分享）](https://rangling.github.io/sora2-invite-guide/)
-
+- [SuperGrok 代充推荐：源头充值 | Grok 会员充值指南](https://github.com/rangling/supergrok-recharge-guide)
+- [Sora2 使用教程与邀请码获取指南（sora2邀请码购买 / sora2邀请码分享）](https://github.com/rangling/sora2-invite-guide)
+- [Sora2 使用教程与提示词大全（Sora 2 Prompt 教程 / 新手指南 / AI 视频生成技巧）](https://github.com/rangling/sora2-prompt-guide)
